@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="100" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=ecf05e47py7812qqdzp9xsvtfp912eqsn9je4rem90dc8z2s&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
   <img width="10" />
@@ -32,6 +36,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="yosephtesfaye27@gmail.com" target="_blank">
@@ -42,9 +48,5 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif?cid=ecf05e47py7812qqdzp9xsvtfp912eqsn9je4rem90dc8z2s&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
