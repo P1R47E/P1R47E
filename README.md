@@ -1,4 +1,5 @@
 # Hello👋 I am Yoseph Tesfaye, a disciplined Software Engineer from Ethiopia  🇪🇹.
+<p>Python Geek| React is fun | Angular Expert | Node js | Laravel while chilling | Adobe for life |  </p>
 🔭 I’m currently working on EthioAirline Ai ticket <br>👯 I’m looking to collaborate on Fullstack project<br>🤝 I’m looking for help with Node js<br>🌱 I’m currently learning Node js<br>💬 Ask me about Python | React | Laravell<br>⚡ Fun fact I love Coffee ☕️
 
 
