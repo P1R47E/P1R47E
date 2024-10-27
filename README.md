@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello👋 I am a disciplined Software Engineer from Ethiopia :
 🔭 I’m currently working on EthioAirline Ai ticket <br>👯 I’m looking to collaborate on Fullstack project<br>🤝 I’m looking for help with Node js<br>🌱 I’m currently learning Node js<br>💬 Ask me about Python | React | Laravell<br>⚡ Fun fact I love Coffee ☕️
 
 
