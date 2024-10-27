@@ -1,4 +1,8 @@
-<h2 align="left">Hello👋 I am Yoseph Tesfaye (P1RA7E), a Software Engineer from Ethiopia. <br>Python Geek | React is Life  | Node js for fun | Angular Expert | Laravel while chilling | Js on tea time | Adobe is everything |  .</h2>
+<h2 align="left">Hello👋 I am Yoseph Tesfaye (P1RA7E), a Software Engineer from Ethiopia.</h2>
+
+###
+
+<p align="left">Python Geek | React is Life  | Node js for fun | Angular Expert | Laravel while chilling | Js on tea time | Adobe is everything | ✌️ .</p>
 
 ###
 
